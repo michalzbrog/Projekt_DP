@@ -1,1 +1,3 @@
-# Projekt_DP
+Michał Zbróg
+Magdalena Zubala
+Marcin Michaluk
